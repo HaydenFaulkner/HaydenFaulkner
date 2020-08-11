@@ -1,4 +1,4 @@
-### Hi there 👋
+I am a final year PhD student within The Australian Institute for Machine Learning at The University of Adelaide, in South Australia. I work heavily in the fields of Computer Vision, Machine Learning and Artificial Intelligence. I am currently focused on developing novel approaches to automatically understand and summarise videos. I have worked on image and video classification, detection, captioning and tracking with deep neural networks and big data. I am passionate about applying the latest techniques to solve real world problems, as well as effectively communicating ideas to both colleagues and the broader community.
 
 <!--
 **HaydenFaulkner/HaydenFaulkner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
