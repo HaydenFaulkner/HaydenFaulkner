@@ -10,8 +10,7 @@ I'm ultimately passionate about **building useful things that make people's live
 
 ## Experience
 
-#### `2021 > Present` · Generalist @ [Insight Via Artificial Intelligence](https://www.ivai.com.au/)
-#### `2021 > Present` · Generalist @ [Woven Optics](https://www.wovenoptics.com/)
+#### `2021 > Present` · Generalist @ [Woven Optics](https://www.wovenoptics.com/) & [Insight Via Artificial Intelligence](https://www.ivai.com.au/)
 #### `2019 > 2021` · Freelancer @ [**Athletes AI**](https://www.athletesai.com/) & [**Australian Grain Technologies**](https://www.agtbreeding.com.au/) & [**Centre for Automotive Safety Research**](https://adelaide.edu.au/research/centre-for-automotive-safety-research/)
 
 ## Skills
