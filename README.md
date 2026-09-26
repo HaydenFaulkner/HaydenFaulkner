@@ -25,6 +25,8 @@ React · Full Stack · UI/UX · AWS · Firebase · Linux · Raspberry Pi · NVID
 **Specialist:**
 Machine Learning · AI · Computer Vision · Image Processing
 
+*If I don't know it, I can learn it*
+
 ## Education
 
 #### `2021` · PhD in Machine Learning @ [*The University of Adelaide*](https://adelaide.edu.au/) & [*The Australian Institute for Machine Learning*](https://adelaide.edu.au/research/australian-institute-for-machine-learning/)
@@ -37,7 +39,5 @@ Machine Learning · AI · Computer Vision · Image Processing
 **Photography · Sport · Music · Gigs & Festivals · Travel**
 
 ----
-
-#### Let's Link
 
 [LinkedIn](https://www.linkedin.com/in/haydenfaulkner) · [Website](https://hayden.faulkner.codes/) · [Email](mailto:"hayden@faulkner.codes")
