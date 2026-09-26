@@ -28,7 +28,7 @@ Machine Learning · AI · Computer Vision · Image Processing
 
 ## Education
 
-#### `2021` · PhD in Machine Learning @ [*The University of Adelaide*](https://adelaide.edu.au/) & [*The Australian Institute for Machine Learning*](https://adelaide.edu.au/research/australian-institute-for-machine-learning/)
+#### `2021` · PhD in Computer Science @ [*The University of Adelaide*](https://adelaide.edu.au/) & [*The Australian Institute for Machine Learning*](https://adelaide.edu.au/research/australian-institute-for-machine-learning/)
 #### `2014` · Honours in Computer Science @ [*The University of Adelaide*](https://adelaide.edu.au/) · Top of Class
 #### `2013` · Graduate Certificate in Creative Arts @ [*Flinders University*](https://www.flinders.edu.au/) & [*Rising Sun Pictures*](https://www.rsp.com.au/)
 #### `2012` · Bachelor of Computer Graphics @ [*The University of Adelaide*](https://adelaide.edu.au/) · GPA 5.63
