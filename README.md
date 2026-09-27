@@ -1,4 +1,4 @@
-# The Generalist
+# A Generalist
 
 **Machine Learning Engineer × Full-Stack Developer × Application Designer × Team Leader**
 
