@@ -35,6 +35,8 @@ Machine Learning · AI · Computer Vision · Image Processing
 
 ## Research (deprecated)
 
+#### `2021` · [General and Fine-Grained Video Understanding using Machine Learning & Standardised Neural Network Architectures](https://hayden.faulkner.codes/pdfs/Thesis.pdf) · *PhD Thesis*
+
 #### `2017` · [TenniSet: A Dataset for Dense Fine-Grained Event Recognition, Localisation and Description](https://hayden.faulkner.codes/pdfs/DICTA17_Tennis.pdf) @ *International Conference on Digital Image Computing: Techniques and Applications*
 [Project](https://hayden.faulkner.codes/tennis.html) · [Paper](https://hayden.faulkner.codes/pdfs/DICTA17_Tennis.pdf) · [Poster](https://hayden.faulkner.codes/pdfs/dicta17_poster.pdf) · [Code](https://github.com/HaydenFaulkner/Tennis) 
 
