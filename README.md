@@ -33,9 +33,24 @@ Machine Learning · AI · Computer Vision · Image Processing
 #### `2013` · Graduate Certificate in Creative Arts @ [*Flinders University*](https://www.flinders.edu.au/) & [*Rising Sun Pictures*](https://www.rsp.com.au/)
 #### `2012` · Bachelor of Computer Graphics @ [*The University of Adelaide*](https://adelaide.edu.au/) · GPA 5.63
 
+## Research (deprecated)
+
+#### `2017` · [TenniSet: A Dataset for Dense Fine-Grained Event Recognition, Localisation and Description](https://hayden.faulkner.codes/pdfs/DICTA17_Tennis.pdf) @ *International Conference on Digital Image Computing: Techniques and Applications*
+[Project](https://hayden.faulkner.codes/tennis.html) · [Paper](https://hayden.faulkner.codes/pdfs/DICTA17_Tennis.pdf) · [Poster](https://hayden.faulkner.codes/pdfs/dicta17_poster.pdf) · [Code](https://github.com/HaydenFaulkner/Tennis) 
+
+#### `2015` · [AFL Player Detection and Tracking](https://hayden.faulkner.codes/pdfs/AFL_det_trk.pdf) @ *International Conference on Digital Image Computing: Techniques and Applications*
+[Paper](https://hayden.faulkner.codes/pdfs/AFL_det_trk.pdf) · [Poster](https://hayden.faulkner.codes/pdfs/dicta_afl_pres.pdf) 
+
+#### `2015` · [A Study of the Region Covariance Descriptor: Impact of Feature Selection and Image Transformations](https://hayden.faulkner.codes/pdfs/regionCovarianceEvaluation.pdf) @ *International Conference on Digital Image Computing: Techniques and Applications*
+[Paper](https://hayden.faulkner.codes/pdfs/regionCovarianceEvaluation.pdf) · [Poster](https://hayden.faulkner.codes/pdfs/dicta_rcd_poster.pdf) · [Slides](https://hayden.faulkner.codes/pdfs/dicta_rcd_pres.pdf) 
+
+#### `2015` · [Approximate Approaches to the Traveling Thief Problem](https://hayden.faulkner.codes/pdfs/2015gecco-ttp.pdf) @ *Annual Conference on Genetic and Evolutionary Computation*
+[Paper](https://hayden.faulkner.codes/pdfs/2015gecco-ttp.pdf) · [Slides](https://hayden.faulkner.codes/pdfs/AAttTTP_presentation.pdf) · [Code](https://cs.adelaide.edu.au/~optlog/research/ttp/2015gecco-codeForDistribution.zip) 
+
 ## When Not Coding
 
 **Photography · Sport · Music · Gigs & Festivals · Travel**
+
 
 ----
 
