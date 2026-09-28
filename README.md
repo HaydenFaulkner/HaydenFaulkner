@@ -19,10 +19,13 @@ I'm ultimately passionate about **building useful things that make people's live
 TypeScript · JavaScript · Python · HTML · CSS · C · C++ · SQL
 
 **Development:**
-React · Full Stack · UI/UX · AWS · Firebase · Linux · Raspberry Pi · NVIDIA Jetson
+React · Full Stack · UI/UX · AWS · Firebase · PyTorch · Linux · Raspberry Pi · NVIDIA Jetson
 
 **Specialist:**
 Machine Learning · AI · Computer Vision · Image Processing
+
+**Extras:**
+Adobe Suite · Copilot · Git · VS Code
 
 *If I don't know it, I can learn it*
 
