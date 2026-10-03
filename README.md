@@ -1,6 +1,6 @@
 # A Generalist
 
-**Machine Learning Engineer × Full-Stack Developer × Application Designer × Team Leader**
+**Machine Learning Engineer × Full-Stack Developer × Data Scientist × Application Designer × Team Leader**
 
 With **15+ years of software development experience**, I've built applications across web, desktop, cloud and embedded platforms, worked in startups alongside founders and customers, and led small engineering teams.
 
@@ -19,16 +19,16 @@ I'm ultimately passionate about **building useful things that make people's live
 TypeScript · JavaScript · Python · HTML · CSS · C · C++ · SQL
 
 **Development:**  
-Full Stack · React · React Native · AWS · Firebase · Linux · Embedded Systems
+React · React Native · Node.js · AWS · Firebase · GCP · PyTorch · Linux
 
 **Design:**  
 UI/UX · Graphic Design · Adobe Creative Suite
 
-**AI & Vision:**  
-Machine Learning · AI · Computer Vision · Image Processing
+**Specialist:**  
+Machine Learning · Data Science · Computer Vision · Image Processing
 
 **Tools:**  
-Git · VS Code · GitHub · Copilot
+Git · VS Code · Copilot
 
 *If I don't know it, I can learn it*
 
